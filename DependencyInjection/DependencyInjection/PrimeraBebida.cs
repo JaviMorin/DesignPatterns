@@ -4,7 +4,7 @@
     {
         public void Preparar()
         {
-            Console.WriteLine("Se hace una primera bebida");
+            Console.WriteLine("Se hace una primera bebida.");
         }
     }
 }
